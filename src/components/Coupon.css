@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+#cards{
+    
+}
+#cardgroup{
+    
+    display:flex;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#cards{
+    width:300px;
+    padding:15px;
+    border:2px solid gray;
+    box-shadow:0 4px 4px blue;
+}
+.qrCodediv{
+    text-align:center;
+    padding:15px;
+    margin: 0 auto;
+    display: none;
+}
+img{
+    height:300px
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+=======
+#cards{
+    
+}
+#cardgroup{
+    
+    display:flex;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#cards{
+    width:300px;
+    padding:15px;
+    border:2px solid gray;
+    box-shadow:0 4px 4px blue;
+}
+.qrCodediv{
+    text-align:center;
+    padding:15px;
+    margin: 0 auto;
+    display: none;
+}
+img{
+    height:300px
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+>>>>>>> 8a5e369931205b534b2db22ddad9e9e45d5730b1
